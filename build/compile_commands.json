@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/daniel/C++/SFML-BOOK/startGame/build/src",
-  "command": "/bin/clang++-12    -g   -std=gnu++17 -o CMakeFiles/GameStartedProject.dir/main.cpp.o -c /home/daniel/C++/SFML-BOOK/startGame/src/main.cpp",
-  "file": "/home/daniel/C++/SFML-BOOK/startGame/src/main.cpp"
-}
-]
