@@ -1,0 +1,9 @@
+/home/daniel/C++/SFML-BOOK/startGame/build/CMakeFiles/edit_cache.dir
+/home/daniel/C++/SFML-BOOK/startGame/build/CMakeFiles/package_source.dir
+/home/daniel/C++/SFML-BOOK/startGame/build/CMakeFiles/rebuild_cache.dir
+/home/daniel/C++/SFML-BOOK/startGame/build/CMakeFiles/package.dir
+/home/daniel/C++/SFML-BOOK/startGame/build/src/CMakeFiles/edit_cache.dir
+/home/daniel/C++/SFML-BOOK/startGame/build/src/CMakeFiles/package_source.dir
+/home/daniel/C++/SFML-BOOK/startGame/build/src/CMakeFiles/rebuild_cache.dir
+/home/daniel/C++/SFML-BOOK/startGame/build/src/CMakeFiles/package.dir
+/home/daniel/C++/SFML-BOOK/startGame/build/src/CMakeFiles/GameStartedProject.dir
